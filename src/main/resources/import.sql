@@ -1,0 +1,15 @@
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Andres', 'Sanchez', 'Calle 9900', 'andres.sanchez@example.com', '10011001100110011001');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Sofia', 'Garcia', 'Avenida 8811', 'sofia.garcia@example.com', '01100110011001100110');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Fernando', 'Ramirez', 'Carrera 7722', 'fernando.ramirez@example.com', '11011011011011011011');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Isabella', 'Torres', 'Plaza 6633', 'isabella.torres@example.com', '00100100100100100100');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Sebastian', 'Castro', 'Pasaje 5544', 'sebastian.castro@example.com', '11110000111100000111');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Camila', 'Reyes', 'Calle 4455', 'camila.reyes@example.com', '00001111000011110000');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Daniel', 'Vargas', 'Avenida 3366', 'daniel.vargas@example.com', '10101010101010101010');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Valentina', 'Morales', 'Carrera 2277', 'valentina.morales@example.com', '01010101010101010101');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('David', 'Rojas', 'Plaza 1188', 'david.rojas@example.com', '11001100110011001100');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Samantha', 'Diaz', 'Pasaje 0099', 'samantha.diaz@example.com', '00110011001100110011');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Mateo', 'Flores', 'Calle 9876', 'mateo.flores@example.com', '10011001100110011001');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Emma', 'Guzman', 'Avenida 6789', 'emma.guzman@example.com', '01100110011001100110');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Tomas', 'Salazar', 'Carrera 5678', 'tomas.salazar@example.com', '11011011011011011011');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Juliana', 'Aguilar', 'Plaza 4567', 'juliana.aguilar@example.com', '00100100100100100100');
+INSERT INTO persona (nombre, apellido, direccion, email, cromosoma) VALUES ('Benjamin', 'Medina', 'Pasaje 3456', 'benjamin.medina@example.com', '11110000111100001111');
