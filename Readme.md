@@ -41,7 +41,17 @@ La entidad `Persona` representa a una persona en el sistema de reconocimiento de
 
 ## Colecciones de Postman
 
-Se proporciona una colección de Postman que contiene ejemplos de solicitudes HTTP que se pueden hacer a la API.
+El proyecto incluye una colección de Postman que contiene ejemplos de todas las solicitudes HTTP que se pueden hacer a la API.
+
+La colección de Postman se encuentra en el archivo `reconocimiento_sospechosos.postman_collection.json` en la ruta `src/main/resources/postman`.
+
+Para utilizar la colección, sigue estos pasos:
+
+1. Abre Postman.
+2. Haz clic en el botón "Import" en la parte superior izquierda.
+3. Selecciona la opción "Upload Files".
+4. Busca y selecciona el archivo `reconocimiento_sospechosos.postman_collection.json`.
+5. Una vez importada, verás la colección en la barra lateral izquierda. Puedes expandirla para ver todas las solicitudes HTTP disponibles.
 
 ## Base de Datos
 
